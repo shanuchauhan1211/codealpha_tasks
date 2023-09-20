@@ -1,0 +1,128 @@
+<div class="block">
+    <div class="imgbx">
+    <img src="img2.jpg">
+</div>
+
+<div class="details">
+    <div class="listHead">
+        <h4>Olivia</h4>
+        <p class="time">10:56</p>
+    </div>
+    <div class="message_p">
+        <p>Hello! Souvik....</p>
+    </div>
+</div>
+</div>
+
+<div class="block unread">
+     <div class="imgbx">
+        <img src="avater-1.jpeg">
+    </div>
+        <div class="details">
+            <div class="listHead">
+            <h4>Michel Harris</h4>
+             <p class="time">Yesterday</p>
+        </div>
+        <div class="message_p">
+             <p>SEnf for processing.</p>
+            <b>5</b>
+            </div>
+        </div>
+    </div>     
+
+<div class="block">
+    <div class="imgbx">
+    <img src="img2.jpg">
+</div>
+
+<div class="details">
+    <div class="listHead">
+        <h4>Monalisa Arina</h4>
+        <p class="time">Yesterday</p>
+    </div>
+    <div class="message_p">
+        <p>Bye...</p>
+    </div>
+</div>
+</div>
+
+<div class="block">
+    <div class="imgbx">
+    <img src="img2.jpg">
+</div>
+
+<div class="details">
+    <div class="listHead">
+        <h4>Kevin Disusa</h4>
+        <p class="time">10/06/23</p>
+    </div>
+    <div class="message_p">
+        <p>Pls wait...</p>
+    </div>
+</div>
+</div>
+
+<div class="block">
+    <div class="imgbx">
+    <img src="img5.jpg">
+</div>
+
+<div class="details">
+    <div class="listHead">
+        <h4>Hazel</h4>
+        <p class="time">05/05/23</p>
+    </div>
+    <div class="message_p">
+        <p>See you soon...</p>
+    </div>
+</div>
+</div>
+
+
+<div class="block">
+    <div class="imgbx">
+    <img src="img2.jpg">
+</div>
+
+<div class="details">
+    <div class="listHead">
+        <h4>Jackson</h4>
+        <p class="time">10:56</p>
+    </div>
+    <div class="message_p">
+        <p>Good Morning!!</p>
+    </div>
+</div>
+</div>
+
+<div class="block">
+    <div class="imgbx">
+    <img src="img2.jpg">
+</div>
+
+<div class="details">
+    <div class="listHead">
+        <h4>Albert Joseph</h4>
+        <p class="time">30/02/23</p>
+    </div>
+    <div class="message_p">
+        <p>Yea that's true..</p>
+    </div>
+</div>
+</div>
+
+<div class="block">
+    <div class="imgbx">
+    <img src="img2.jpg">
+</div>
+
+<div class="details">
+    <div class="listHead">
+        <h4>Ryan</h4>
+        <p class="time">10:56</p>
+    </div>
+    <div class="message_p">
+        <p>Let's see...</p>
+    </div>
+</div>
+</div>
